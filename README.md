@@ -47,6 +47,9 @@ des vols et des hôtels depuis votre ville de départ.
 - Widget « Prochain voyage » pour l'écran d'accueil.
 - Météo des destinations, carte de l'itinéraire, convertisseur de devises.
 - Sauvegarde et restauration de tous vos voyages dans un fichier.
+- Thème clair, sombre ou automatique, et ouverture directe sur vos prochains voyages.
+- Partagez un e-mail de réservation ou une capture vers Voyago : l'application la lit et propose les éléments à ajouter.
+- Après un plantage, un rapport technique est proposé au partage ; rien n'est envoyé sans votre accord.
 
 ## En images
 
@@ -77,6 +80,8 @@ Mettre à jour**. La nouvelle version s'installe par-dessus l'ancienne ; vos voy
 - Vos voyages restent sur votre téléphone ; seuls les voyages que vous partagez sont synchronisés avec les membres invités.
 - Les documents sont chiffrés sur l'appareil, et de bout en bout dans les voyages partagés.
 - La lecture automatique d'un document l'envoie à Google (Gemini) : l'application vous le demande avant le premier envoi.
+  Vous pouvez utiliser votre propre clé Gemini gratuite (Réglages › Lecture de documents) ; elle est chiffrée sur le téléphone.
+- [Politique de confidentialité complète](https://voyago-b9c03.web.app/confidentialite).
 
 ---
 
