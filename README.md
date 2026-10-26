@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo/voyago.svg" width="160" alt="Logo de Voyago : un billet d'embarquement avec un avion et deux tampons">
+</p>
+
 # Voyago
 
 **Votre carnet de voyage sur Android** : itinéraire jour par jour, réservations et documents au même endroit, dépenses
